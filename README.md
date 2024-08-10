@@ -1,0 +1,2 @@
+. Airbnb Data Analysis Project
+This project involved analyzing a dataset from Airbnb to uncover insights into pricing strategies, guest preferences, and popular locations. I utilized Python, Pandas, and data visualization techniques to explore the relationships between various features such as location, room type, and price. The results helped to identify key factors influencing rental prices and guest satisfaction.
